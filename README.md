@@ -1,7 +1,7 @@
 # cotp-demo
 
 ## Requirements
-Rely on @paolostivanin to write the two packages
+Rely on [@paolostivanin](https://github.com/paolostivanin) to write the two packages
 
 |Name|Min Version|Suggested Min Version|
 |----|-----------|-----------------|
